@@ -1,0 +1,13 @@
+{
+  "name": "jquery",
+  "description": "jQuery components",
+  "version": "1.0.0",
+  "ignore": [
+
+  ],
+  "dependencies": {
+	   "jquery": "1.10.2"
+  },
+  "devDependencies": {
+  }
+}
